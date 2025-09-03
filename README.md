@@ -11,14 +11,21 @@
 Implementation of the FPD_NMT framework proposed in 
 
 [Mansueto, P., A Nonmonotone Front Descent Method
-for Bound-Constrained Multi-Objective Optimization. arXiv pre-print (2025)](
-TODO)
+for Bound-Constrained Multi-Objective Optimization. arXiv pre-print (2025)](https://arxiv.org/abs/2509.02409)
 
 If you have used our code for research purposes, please cite the publication mentioned above.
 For the sake of simplicity, we provide the Bibtex format:
 
 ```
-TODO
+@misc{mansueto2025nonmonotonedescentmethodboundconstrained,
+      title={A Nonmonotone Front Descent Method for Bound-Constrained Multi-Objective Optimization}, 
+      author={Pierluigi Mansueto},
+      year={2025},
+      eprint={2509.02409},
+      archivePrefix={arXiv},
+      primaryClass={math.OC},
+      url={https://arxiv.org/abs/2509.02409}, 
+}
 ```
 
 ### Main Dependencies Installation
